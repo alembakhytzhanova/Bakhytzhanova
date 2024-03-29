@@ -34,9 +34,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   </a>
+  <a href="https://leetcode.com/alemka_bb/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
+  </a>
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diasmashikov&show_icons=true&locale=en" alt="diasmashikov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diasmashikov&show_icons=true&locale=en" alt="alembakhytzhanova" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alembakhytzhanova&" alt="alembakhytzhanova" /></p>
